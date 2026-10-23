@@ -1,6 +1,6 @@
 cask "sixty" do
-  version "0.1.0"
-  sha256 "06051365b0722191d9c74c915ca2980bc170ed92d337704c8ad6c7f3dbf0d1d1"
+  version "0.1.1"
+  sha256 "ff44f17472ab3f406238ab918b10ffa4fd7046cbf9e191dbaaa0a340a17e1f1b"
 
   url "https://github.com/leplik/sixty/releases/download/v#{version}/Sixty-#{version}.dmg"
   name "Sixty"
